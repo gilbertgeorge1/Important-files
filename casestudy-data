@@ -1,0 +1,181 @@
+[
+	{
+		"Brand": "Nike",
+		"BrandAlias":"NIK",
+		"ProductName": "Huarache",
+		"GraphicName": "Black Nike Huarache",
+		"CostPrice": 100,
+		"MSRP": 120,
+		"QtyOnHand": 10,
+		"QtyOnBackOrder": 100,
+		"Description": "The Nike Air Huarache takes the classic to new levels of comfort with a combination midsole/outsole that drastically reduces the overall weight of the shoe. "
+
+	},
+	{
+		"Brand": "Nike",
+		"BrandAlias":"NIK",
+		"ProductName": "Air Force 1",
+		"GraphicName": "White",
+		"CostPrice": 110,
+		"MSRP": 120,
+		"QtyOnHand": 100,
+		"QtyOnBackOrder": 120,
+		"Description": "The legend lives on in the Nike Air Force 1 '07 Women's Shoe, a modern take on the icon that blends classic style and fresh, crisp details."
+
+	},
+	{
+		"Brand": "Nike",
+		"BrandAlias":"NIK",
+		"ProductName": "Air Max 270 React Bauhaus",
+		"GraphicName": "Phantom/University Red/Black/University Gold",
+		"CostPrice": 195,
+		"MSRP": 200,
+		"QtyOnHand": 50,
+		"QtyOnBackOrder": 100,
+		"Description": "Inspired by Bauhaus art, the Nike Air Max 270 React merges functionality with art so you can step between worlds. Featuring blocks of contrasting colours and soft cushioning for everyday comfort, this shoe lets you bridge the gap."
+
+	},
+	{
+		"Brand": "Nike",
+		"BrandAlias":"NIK",
+		"ProductName": "Nike Zoom 2K",
+		"GraphicName": "Black",
+		"CostPrice": 115,
+		"MSRP": 140,
+		"QtyOnHand": 55,
+		"QtyOnBackOrder": 200,
+		"Description": "Inspired by the look of the late '90s, specifically the shoes featured in the Nike Alpha Project, the Nike Zoom 2K combines heritage style and the modern comfort of Zoom Air cushioning."
+
+	},
+	{
+		"Brand": "Nike",
+		"BrandAlias":"NIK",
+		"ProductName": "Nike Classic Cortez",
+		"GraphicName": "Varsity Red",
+		"CostPrice": 105,
+		"MSRP": 115,
+		"QtyOnHand": 24,
+		"QtyOnBackOrder": 48,
+		"Description": "The Nike Classic Cortez Shoe is Nike's original running shoe, designed by Bill Bowerman and released in 1972. This version features a leather and synthetic leather construction for added durability."
+	},
+	{
+		"Brand": "Adidas",
+		"BrandAlias":"ADI",
+		"ProductName": "Adidas Prophere",
+		"GraphicName": "White and Red",
+		"CostPrice": 70,
+		"MSRP": 170,
+		"QtyOnHand": 34,
+		"QtyOnBackOrder": 49,
+		"Description": "  Aggressive, eye catching and never apologetic. Prophere reveals the future one step at a time. These shoes combine a knit upper with an elastic collar for easy entry. "
+
+	},
+	{
+		"Brand": "Adidas",
+		"BrandAlias":"ADI",
+		"ProductName": "EQT Support",
+		"GraphicName": "Camo Green",
+		"CostPrice": 70,
+		"MSRP": 140,
+		"QtyOnHand": 34,
+		"QtyOnBackOrder": 49,
+		"Description": "The Equipment series launched in the '90s with a technical, minimal design. These men's shoes capture the original spirit with a sleek, sock-like knit upper with a bold two-tone look.  "
+
+	},
+	{
+		"Brand": "Adidas",
+		"BrandAlias":"ADI",
+		"ProductName": "ESSENTIALS 3-STRIPES TRICOT TRACK JACKET",
+		"GraphicName": "Black and White",
+		"CostPrice": 50,
+		"MSRP": 50,
+		"QtyOnHand": 90,
+		"QtyOnBackOrder": 510,
+		"Description": "Sporty style from the archives inspires this iconic track jacket. A stand-up collar and the signature sheen of tricot give it a retro vibe"
+
+	},
+	{
+		"Brand": "Adidas",
+		"BrandAlias":"ADI",
+		"ProductName": "ADILETTE CLOUDFOAM",
+		"GraphicName": "Black and White Stripes",
+		"CostPrice": 35,
+		"MSRP": 35,
+		"QtyOnHand": 100,
+		"QtyOnBackOrder": 250,
+		"Description": "Slip into pillowy-soft comfort with these men's slides. They're made with a cloudfoam plus footbed so your feet feel energized after your swim. "
+
+	},
+	{
+		"Brand": "Adidas",
+		"BrandAlias":"ADI",
+		"ProductName": "ALPHASKIN SPORT+ LONG 3-STRIPES TIGHTS",
+		"GraphicName": "Black and White Stripes",
+		"CostPrice": 50,
+		"MSRP": 50,
+		"QtyOnHand": 5,
+		"QtyOnBackOrder": 14,
+		"Description": "Focus on your squats and lunges in these breathable long tights. Done in stretchy fabric, they feature a compression fit that wraps your body and follows every move you make"
+
+	},
+	{
+		"Brand": "Puma",
+		"BrandAlias":"PUM",
+		"ProductName": "Cali Bold Women's Sneakers",
+		"GraphicName": "Black and White Sole",
+		"CostPrice": 80,
+		"MSRP": 50,
+		"QtyOnHand": 74,
+		"QtyOnBackOrder": 114,
+		"Description": "Black and white and bold all over. Cali Bold plays with dimensions and contrast, with a kick-ass platform and oversized PUMA branding."
+
+	},
+	{
+		"Brand": "Puma",
+		"BrandAlias":"PUM",
+		"ProductName": "Classics Women's Dress",
+		"GraphicName": "Black and White Sole",
+		"CostPrice": 50,
+		"MSRP": 50,
+		"QtyOnHand": 50,
+		"QtyOnBackOrder": 140,
+		"Description": "A stylish classic for every day. A tight fit, long sleeve design, and subtle cut out makes this a go-to essential for cool summer nights."
+
+	},
+	{
+		"Brand": "Puma",
+		"BrandAlias":"PUM",
+		"ProductName": "SG x Cali Sandal",
+		"GraphicName": "Black and White Sole",
+		"CostPrice": 75,
+		"MSRP": 80,
+		"QtyOnHand": 5,
+		"QtyOnBackOrder": 12,
+		"Description": "Strap yourself into the SG x Cali Sandal. Inspired by the colorful California coastline and Selena’s laid-back style, this versatile kick will take you from the beach to the streets and beyond"
+
+	},
+	{
+		"Brand": "Puma",
+		"BrandAlias":"PUM",
+		"ProductName": "PUMA Vikky Stacked Ribbon Core ",
+		"GraphicName": "Pink and White Sole",
+		"CostPrice": 55,
+		"MSRP": 60,
+		"QtyOnHand": 15,
+		"QtyOnBackOrder": 32,
+		"Description": "The PUMA Vikky is a women’s-specific update to the heritage court style. This season, the Vikky reaches new heights in the Vikky Stacked."
+
+	},
+	{
+		"Brand": "Puma",
+		"BrandAlias":"PUM",
+		"ProductName": "PUMA x SOPHIA WEBSTER Girls' Tee",
+		"GraphicName": "Pink, White and Black",
+		"CostPrice": 30,
+		"MSRP": 35,
+		"QtyOnHand": 17,
+		"QtyOnBackOrder": 28,
+		"Description": "British footwear designer Sophia Webster and her cult following are on the rise. Her hand-drawn designs have been translated into heels, flats, and espadrilles packed with bold hues and attitude, they have been worn by fashion icons the world over."
+
+	}
+]
