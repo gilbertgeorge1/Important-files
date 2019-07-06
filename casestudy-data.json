@@ -1,7 +1,7 @@
 [
 	{
 		"Brand": "Nike",
-		"BrandAlias":"NIK",
+		"BrandAlias":"BNH",
 		"ProductName": "Huarache",
 		"GraphicName": "Black Nike Huarache",
 		"CostPrice": 100,
@@ -13,7 +13,7 @@
 	},
 	{
 		"Brand": "Nike",
-		"BrandAlias":"NIK",
+		"BrandAlias":"AF1",
 		"ProductName": "Air Force 1",
 		"GraphicName": "White",
 		"CostPrice": 110,
@@ -25,7 +25,7 @@
 	},
 	{
 		"Brand": "Nike",
-		"BrandAlias":"NIK",
+		"BrandAlias":"AM270",
 		"ProductName": "Air Max 270 React Bauhaus",
 		"GraphicName": "Phantom/University Red/Black/University Gold",
 		"CostPrice": 195,
@@ -37,7 +37,7 @@
 	},
 	{
 		"Brand": "Nike",
-		"BrandAlias":"NIK",
+		"BrandAlias":"NZ2K",
 		"ProductName": "Nike Zoom 2K",
 		"GraphicName": "Black",
 		"CostPrice": 115,
@@ -49,7 +49,7 @@
 	},
 	{
 		"Brand": "Nike",
-		"BrandAlias":"NIK",
+		"BrandAlias":"NCC",
 		"ProductName": "Nike Classic Cortez",
 		"GraphicName": "Varsity Red",
 		"CostPrice": 105,
@@ -60,7 +60,7 @@
 	},
 	{
 		"Brand": "Adidas",
-		"BrandAlias":"ADI",
+		"BrandAlias":"ADP",
 		"ProductName": "Adidas Prophere",
 		"GraphicName": "White and Red",
 		"CostPrice": 70,
@@ -72,7 +72,7 @@
 	},
 	{
 		"Brand": "Adidas",
-		"BrandAlias":"ADI",
+		"BrandAlias":"ADEQT",
 		"ProductName": "EQT Support",
 		"GraphicName": "Camo Green",
 		"CostPrice": 70,
@@ -84,7 +84,7 @@
 	},
 	{
 		"Brand": "Adidas",
-		"BrandAlias":"ADI",
+		"BrandAlias":"ADIESS3",
 		"ProductName": "ESSENTIALS 3-STRIPES TRICOT TRACK JACKET",
 		"GraphicName": "Black and White",
 		"CostPrice": 50,
@@ -96,7 +96,7 @@
 	},
 	{
 		"Brand": "Adidas",
-		"BrandAlias":"ADI",
+		"BrandAlias":"ADICLO",
 		"ProductName": "ADILETTE CLOUDFOAM",
 		"GraphicName": "Black and White Stripes",
 		"CostPrice": 35,
@@ -108,7 +108,7 @@
 	},
 	{
 		"Brand": "Adidas",
-		"BrandAlias":"ADI",
+		"BrandAlias":"ADIALPHA",
 		"ProductName": "ALPHASKIN SPORT+ LONG 3-STRIPES TIGHTS",
 		"GraphicName": "Black and White Stripes",
 		"CostPrice": 50,
@@ -120,7 +120,7 @@
 	},
 	{
 		"Brand": "Puma",
-		"BrandAlias":"PUM",
+		"BrandAlias":"PCBW",
 		"ProductName": "Cali Bold Women's Sneakers",
 		"GraphicName": "Black and White Sole",
 		"CostPrice": 80,
@@ -132,7 +132,7 @@
 	},
 	{
 		"Brand": "Puma",
-		"BrandAlias":"PUM",
+		"BrandAlias":"PCWD",
 		"ProductName": "Classics Women's Dress",
 		"GraphicName": "Black and White Sole",
 		"CostPrice": 50,
@@ -144,7 +144,7 @@
 	},
 	{
 		"Brand": "Puma",
-		"BrandAlias":"PUM",
+		"BrandAlias":"PSGCS",
 		"ProductName": "SG x Cali Sandal",
 		"GraphicName": "Black and White Sole",
 		"CostPrice": 75,
@@ -156,7 +156,7 @@
 	},
 	{
 		"Brand": "Puma",
-		"BrandAlias":"PUM",
+		"BrandAlias":"PUMVSRC",
 		"ProductName": "PUMA Vikky Stacked Ribbon Core ",
 		"GraphicName": "Pink and White Sole",
 		"CostPrice": 55,
@@ -168,7 +168,7 @@
 	},
 	{
 		"Brand": "Puma",
-		"BrandAlias":"PUM",
+		"BrandAlias":"PUMSWG",
 		"ProductName": "PUMA x SOPHIA WEBSTER Girls' Tee",
 		"GraphicName": "Pink, White and Black",
 		"CostPrice": 30,
